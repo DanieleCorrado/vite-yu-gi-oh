@@ -14,7 +14,7 @@ export default {
     <div id="logo">
       <img src="../assets/img/Yu-Gi-Oh!_(Logo).png" alt="">
 
-      <h1>Yu-Gi-Oh API</h1>
+      <h1>  Yu-Gi-Oh API </h1>
     </div>
   </header>
 
@@ -24,7 +24,6 @@ export default {
 
 header {
   background-color: white;
-  height: 80px;
   padding: 10px;
 
   #logo {
