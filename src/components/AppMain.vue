@@ -20,10 +20,11 @@ export default {
   
   <section id="container">
 
+
     <div id="list">
 
       <div id="card-number">
-        <h4>Found 39 cards</h4>
+        <h4>Found {{ store.cardsList.length }} cards</h4>
       </div>
 
       <div id="cards">

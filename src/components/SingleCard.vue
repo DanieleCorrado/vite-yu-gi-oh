@@ -6,7 +6,6 @@ export default {
       details: Object
     }
 }
-
 </script>
 
 <template>
